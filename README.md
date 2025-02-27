@@ -5,4 +5,4 @@
 - We use WeCom for all class communication
 
 # Test 🤣
-- Just testing this out 
+- Just testing this out!
